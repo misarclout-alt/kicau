@@ -1,0 +1,6 @@
+{
+  "name": "Arduino Android Controller",
+  "description": "Aplikasi pengontrol Arduino via Android USB OTG dengan status koneksi terhubung real-time, tombol Kiri, Tengah, Kanan, dan tombol Terapkan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
